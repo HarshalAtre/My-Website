@@ -573,8 +573,11 @@ text-align: center;
     .content{
         height: 200em;
     }   
+    .title{
+        width: 87vw;
+    }
     .main{
-        width:90vw;
+        width: 87vw;
     }
     /* .main{
         height: 90%;
