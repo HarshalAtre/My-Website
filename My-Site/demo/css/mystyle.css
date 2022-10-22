@@ -466,9 +466,7 @@ text-align: center;
 .title span{
     display: none;
 }
-.main{
-    background-color: red;
-}
+
 .info h2{
     /* font-size: 1.5em; */
     margin-left: 0vw;
