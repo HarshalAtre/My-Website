@@ -519,7 +519,7 @@ text-align: center;
     /* height: 10vh; */
 }
 .both{
-    height: 100px;
+    height: 120px;
 }
 .left{
     border-top-left-radius: 25px;
@@ -573,6 +573,9 @@ text-align: center;
     .content{
         height: 200em;
     }   
+    .main{
+        width:90vw;
+    }
     /* .main{
         height: 90%;
     } */
