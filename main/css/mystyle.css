@@ -594,7 +594,7 @@ text-align: center;
         padding: 0px;
         border: 0px;
         outline: 0px;
-        font-size: 97%;
+        font-size: 96%;
         vertical-align: baseline;
         background: transparent;
     }
@@ -603,7 +603,8 @@ text-align: center;
     }
     .low .why {
         margin-top: 43em;
-    }
+        padding-bottom: 40px;
+      }
     .low{
         margin-left: 2em;
     }
