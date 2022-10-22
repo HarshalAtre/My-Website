@@ -425,6 +425,25 @@
 .head{
     margin-top: 55px;
 }
+    .hamburger {
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    cursor: pointer;
+    z-index: 10001;
+}
+    .sidebar1 {
+  position: absolute;
+  padding: 1px;
+  height: 135vh;
+  background-color: red;
+  background-color: antiquewhite;
+  width: 120px;
+  transition: transform 0.1s ease-in-out;
+  overflow: hidden;
+  opacity: 0.7;
+  z-index: 10000;
+}
     /* .main{
     background-color: blue;
     height: 80%;
