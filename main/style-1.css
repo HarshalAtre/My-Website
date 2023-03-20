@@ -253,6 +253,13 @@ h1{
     /* .main{
           padding: 0px;
     }*/
+    .pro-1st {
+        flex-direction: column;
+        margin: 0 1.5em;
+        font-size: 125%;
+        line-height: 20px;
+        letter-spacing: 0.24px;
+        }
 } 
 @media (min-width: 1200px){
     .form h2{
