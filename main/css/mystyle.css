@@ -590,7 +590,7 @@ text-align: center;
 }
 @media (max-width: 450px){
     .content{
-        height: 200em;
+        height: 206em;
     }   
     .title{
         width: 87vw;
